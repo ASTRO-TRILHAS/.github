@@ -2,13 +2,13 @@
   # 🌟 astro-trilhas
   <br>
   Trilhas interativas de TI percorridas pelo **ASTRODEV**
-  ![Banner](https://via.placeholder.com/1200x300/0a2540/ffffff?text=astro-trilhas)
+  
 </div>
 
 ## 🚀 Projetos
 - EM BREVE
 
 ## 👥 Membros Ativos
-- ![@ELBotechia](https://github.com/elbotechia)
+- [@ELBotechia](https://github.com/elbotechia)
 
 [![GitHub followers](https://img.shields.io/github/followers/astro-trilhas)](https://github.com/astro-trilhas)
